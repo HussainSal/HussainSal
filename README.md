@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Maxel Tracker**
 
-- 🌱 I’m currently learning **JAVA, Springboot**
+- 🌱 I’m currently learning **Solidity, Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-a2809.web.app](https://portfolio-a2809.web.app)
 
