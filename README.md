@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Solidity, Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-a2809.web.app](https://portfolio-a2809.web.app)
-
 - 💬 Ask me about **Javascript,React,Next.js,Node.js,Express,Nest.js,SQL**
 
 - 📫 How to reach me **salmanmian54321@gmail.com**
